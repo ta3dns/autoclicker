@@ -1,4 +1,3 @@
-![GitHub License](https://img.shields.io/github/license/ta3dns/autoclicker)
 # autoclicker
 A simple python autoclicker for games
 
